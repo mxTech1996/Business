@@ -1,4 +1,4 @@
-export const pageName = 'Business';
+export const pageName = 'Expert Dann';
 export const primaryColor = '#000000';
 export const backgroundColor = '#FFFFFF';
 export const makeClearBackground = (color) => {
